@@ -1,0 +1,1 @@
+#Uma universidade realizará uma competição acadêmica. Para esta competição, só serão Aceitos estudantes que sejam maiores de idade
