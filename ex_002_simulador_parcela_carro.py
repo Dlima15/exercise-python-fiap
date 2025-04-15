@@ -1,3 +1,11 @@
+# 2 – A compra de um veículo pode ser realizada parcelada. Crie um programa 
+# que receba o valor de um carro e mostre uma tabela com os seguintes dados: 
+# preço final, quantidade de parcelas e valor da parcela. Considere o seguinte:
+#a) O preço final para compra à vista tem um desconto de 20%.
+#b) A quantidade de parcelas pode ser 6, 12, 18, 24, 30, 36, 42, 48, 54 e 60.
+
+
+
 # Simulação de pagamento de carro com desconto à vista ou parcelado com acréscimos
 
 preco = float(input("Digite o preço do carro: "))

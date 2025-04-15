@@ -1,3 +1,10 @@
+#1 – A Bidu é uma startup na área de Fintech fundada em 2011 que ajuda os usuários a 
+# controlar suas fontes de receitas, gastos, dívidas e investimentos.  Ela precisa 
+# realizar uma votação para escolher qual dia da semana é o melhor para a realização 
+# das lives com o time da mentoria financeira. Desenvolva um programa em que os colaboradores 
+# informem um dos 5 dias da semana (segunda-feira, terça-feira, quarta-feira, quinta-feira e sexta-feira) 
+# da sua preferência para participar da live. Verifique e exiba ao final, qual dia foi o escolhido pelos colaboradores.
+
 # Votação para escolher o melhor dia da semana para a live
 
 votos = {
